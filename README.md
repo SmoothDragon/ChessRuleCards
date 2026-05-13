@@ -1,4 +1,4 @@
-# Chess Rule Cards
+# ArcMate
 A deck of alternate chess rules. Deal one of two cards. Designed to work with Fischer Random Bughouse.
 
 # How to make
@@ -10,7 +10,7 @@ The cards are designed to be a mapping from rules to rules, so the card order ma
 Have fun playing!
 
 # Example card rule page
-![ChessRuleCards](https://github.com/SmoothDragon/ChessRuleCards/blob/main/ChessRuleCards.png)
+![ArcMate](https://github.com/SmoothDragon/ChessRuleCards/blob/main/ChessRuleCards.png)
 
 # Master rules
 - Rules refer to how a piece currently moves/takes/acts, given the application of previous rules. "Orthodox piece" refers the original piece.

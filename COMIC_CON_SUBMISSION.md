@@ -1,8 +1,8 @@
-# Chess Rule Cards — Comic Con Submission Form
+# ArcMate — Comic Con Submission Form
 
 ## Game title
 
-Chess Rule Cards
+ArcMate
 
 ## Topics that describe your game:
 
@@ -56,4 +56,4 @@ Easy, Medium, or Advanced?
 
 ## Game description (50 words or less)
 
-Chess Rule Cards alters chess and bughouse with a deck of rule-modifying cards. Deal one or two; earlier cards define a baseline so later cards stack cleanly. Pieces may gain wild moves, zones, or new win conditions. Works with standard or Fischer Random starting positions for fast, table-ready demos.
+ArcMate alters chess and bughouse with a deck of rule-modifying cards. Deal one or two; earlier cards define a baseline so later cards stack cleanly. Pieces may gain wild moves, zones, or new win conditions. Works with standard or Fischer Random starting positions for fast, table-ready demos.
