@@ -1,0 +1,59 @@
+# Chess Rule Cards — Comic Con Submission Form
+
+## Game title
+
+Chess Rule Cards
+
+## Topics that describe your game:
+
+
+- Board
+- Demo
+- Card
+
+## Additional descriptors (check all that apply)
+
+- Educational
+- Fischer Random friendly
+
+## Start & end times
+
+**Times:** 10:00–12:00 and 16:00–18:00 Friday and Saturday. Flexible on exact slots; Thursday possible; Sunday not available.
+
+
+## Estimated length of each game
+
+**Length:** 20–40 minutes (varies with bughouse clocks and how many cards are stacked)
+
+
+## Materials
+
+Are materials provided or will participants need to provide their own?
+
+**Materials:** Everything is provided (printed card deck, chess/bughouse sets or demo boards, quick-reference rule sheet)
+
+## Entry materials required?
+
+**Required materials:** None
+
+## Age range
+
+**Age range:** 8–99
+
+## Maximum number of players (total)
+
+**Max players:** 2–4 (standard chess pairs or bughouse across two boards)
+
+## Game complexity level
+
+Easy, Medium, or Advanced?
+
+**Complexity:** Easy to learn how the deck works; medium depth once multiple cards stack and interact.
+
+## Will the rules be taught for the Demo or Tournament?
+
+**Taught? (Demo/Tournament/Other):** Rules will be taught and demos given (base chess/bughouse plus how to read and order the rule cards).
+
+## Game description (50 words or less)
+
+Chess Rule Cards alters chess and bughouse with a deck of rule-modifying cards. Deal one or two; earlier cards define a baseline so later cards stack cleanly. Pieces may gain wild moves, zones, or new win conditions. Works with standard or Fischer Random starting positions for fast, table-ready demos.
