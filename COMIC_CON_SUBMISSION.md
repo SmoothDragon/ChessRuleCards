@@ -23,7 +23,7 @@ ArcMate
 
 ## Estimated length of each game
 
-**Length:** 20–40 minutes (varies with bughouse clocks and how many cards are stacked)
+**Length:** 10-15 minutes (Usually played with 5 minute clocks)
 
 
 ## Materials
@@ -42,7 +42,7 @@ Are materials provided or will participants need to provide their own?
 
 ## Maximum number of players (total)
 
-**Max players:** 2–4 (standard chess pairs or bughouse across two boards)
+**Max players:** 2 or 4 (standard chess pairs or bughouse across two boards)
 
 ## Game complexity level
 
@@ -56,4 +56,4 @@ Easy, Medium, or Advanced?
 
 ## Game description (50 words or less)
 
-ArcMate alters chess and bughouse with a deck of rule-modifying cards. Deal one or two; earlier cards define a baseline so later cards stack cleanly. Pieces may gain wild moves, zones, or new win conditions. Works with standard or Fischer Random starting positions for fast, table-ready demos.
+ArcMate alters chess and bughouse with a deck of rule-modifying cards. Deal one or two; cards are composable, so later cards stack cleanly. Pieces may gain wild moves, zones, or new win conditions. Works with standard or Fischer Random starting positions for fast, table-ready demos.
