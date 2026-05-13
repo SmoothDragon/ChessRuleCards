@@ -277,3 +277,6 @@ TSWLatexianTemp*
 *.lpz
 
 .textmp
+
+# Accidental local Python venv under graphics/ (do not commit)
+graphics/list/
